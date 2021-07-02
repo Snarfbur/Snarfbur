@@ -15,7 +15,7 @@ I started already in the school before I studied information techniques on a Uni
 Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles allready 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
 
 ### What Else
-I'm a German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
+I'm German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
 
 As my Avatar you see a picture of my American Collie.
 
