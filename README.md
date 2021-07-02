@@ -1,4 +1,22 @@
-### Hi there 👋
+# Introduction
+
+### Why I'm Here
+I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialiy around addons for pen & paper role playing. You can still find a lot of good solutions in the internet, but they are hard to find between all this dead projects. That is the reason for founding RPG-Phoenix.
+I want to bring in my knowledge around role playing and framework development to create and fill this new base plattform. And if I will not find companions, I will do this at least for me and my players.
+
+### Why Now
+I just retired and beside travelling around and playing my compaign with my group, this is the first time after 30 years, that I feal that I have enouph time to start this project.
+
+### My Role Playing Background
+I started with Dungeons&Dragons in 1982. Since then, I played D&D and AD&D until I found Rolemaster from ICE in the late eighties. Since then, I play this system with many house rules. Since the nineties I'm most of the time the game master. My group plays around once in a month a session around 7-8 hours and my Campaigns are going around 10 years in avarage. Of cource I tried also al lot of other systems, but Rolemaster is my favorite.
+
+### My IT Background
+I started allready in the school before I studied information technics on a Universe. In my Company I started as a C Developer, specialized as a framework and library developer.
+Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles allready 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
+
+### What Else
+I'm a German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
+As my Avatar you see a picture of my Amarican Collie.
 
 <!--
 **Snarfbur/Snarfbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
