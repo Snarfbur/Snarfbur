@@ -12,7 +12,7 @@ I started with Dungeons & Dragons in 1982. Since then, I played D&D and AD&D unt
 
 ### My IT Background
 I started already in the school before I studied information techniques in a University. In my company I started as a C developer, specialized as a framework and library developer.
-Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles allready 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
+Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles already in 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
 
 ### What Else
 I'm German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
