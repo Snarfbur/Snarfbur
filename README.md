@@ -1,7 +1,7 @@
 # Introduction
 
 ### Why I'm Here
-I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialy around addons for pen & paper role playing. You can still find a lot of good solutions in the internet, but they are hard to find between all this dead projects. That is the reason for founding RPG-Phoenix.
+I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialy around addons for pen & paper role playing. You can still find a lot of good solutions on the internet, but they are hard to find between all this dead projects. That is the reason for founding RPG-Phoenix.
 I want to bring in my knowledge around role playing and framework development to create and fill this new base plattform. And if I will not find companions, I will do this at least for me and my players.
 
 ### Why Now
@@ -17,7 +17,7 @@ Switching first to Smalltalk and then to Java, I was responsible for a 4-8 devel
 ### What Else
 I'm a German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
 
-As my Avatar you see a picture of my Amarican Collie.
+As my Avatar you see a picture of my American Collie.
 
 <!--
 **Snarfbur/Snarfbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
