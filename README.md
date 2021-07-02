@@ -1,7 +1,7 @@
 # Introduction
 
 ### Why I'm Here
-I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialiy around addons for pen & paper role playing. You can still find a lot of good solutions in the internet, but they are hard to find between all this dead projects. That is the reason for founding RPG-Phoenix.
+I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialy around addons for pen & paper role playing. You can still find a lot of good solutions in the internet, but they are hard to find between all this dead projects. That is the reason for founding RPG-Phoenix.
 I want to bring in my knowledge around role playing and framework development to create and fill this new base plattform. And if I will not find companions, I will do this at least for me and my players.
 
 ### Why Now
