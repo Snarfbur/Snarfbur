@@ -14,6 +14,10 @@ I started with Dungeons & Dragons in 1982. I played D&D and AD&D until I found R
 I started already in the school before I studied information techniques in a University. In my company I started as a C developer, specialized as a framework and library developer.
 Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles already in 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
 
+### My Current Project(s)
+I create the 'Company' RPG-Phoenix on Github, so that others can work with me on my software projects around pen and paper rolepaying services.
+Curently I work for my Rolemaster (ICE) compaign on MapTool-Macros to switch from Roll20 to MapTool. When this is finished I will go on with the RPG-Phoenix projects as described on there page (not public yet, I want to do one step after the other).
+
 ### What Else
 I'm German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
 
