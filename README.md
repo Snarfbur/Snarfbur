@@ -16,7 +16,7 @@ Switching first to Smalltalk and then to Java, I was responsible for a 4-8 devel
 
 ### My Current Project(s)
 I create the 'Company' RPG-Phoenix on Github, so that others can work with me on my software projects around pen and paper rolepaying services.
-Curently I work for my Rolemaster (ICE) compaign on MapTool-Macros to switch from Roll20 to MapTool. When this is finished I will go on with the RPG-Phoenix projects as described on there page (not public yet, I want to do one step after the other).
+Curently I work for my Rolemaster (ICE) compaign on MapTool-Macros to switch from [Roll20](https://app.roll20.net) to [MapTool](https://www.rptools.net/toolbox/maptool/). When this is finished I will go on with the RPG-Phoenix projects as described on there page (not public yet, I want to do one step after the other).
 
 ### What Else
 I'm German, living in Germany, so english is a foreign language for me. Beeing a legastics makes correct writing not easier :-)
