@@ -5,10 +5,10 @@ I love fantasy role playing since the eigthies and developing software even earl
 I want to bring in my knowledge around role playing and framework development to create and fill this new base plattform. And if I will not find companions, I will do this at least for me and my players.
 
 ### Why Now
-I just retired and beside travelling around and playing my compaign with my group, this is the first time after 30 years, that I feal that I have enough time to start this project.
+I just retired and beside travelling around and playing my compaign with my group, this is the first time after 30 years, that I feal that I have enough time to start this project. Last but not least I'm still hungry to learn and to update my Java & IT knowlege. 
 
 ### My Role Playing Background
-I started with Dungeons & Dragons in 1982. Since then, I played D&D and AD&D until I found Rolemaster from ICE in the late eighties. Since then, I play this system with many house rules. Since the nineties I'm most of the time the game master. My group plays around once in a month a session around 7-8 hours and my Campaigns are going around 10 years in avarage. Of cource I tried also al lot of other systems, but Rolemaster is my favorite.
+I started with Dungeons & Dragons in 1982. I played D&D and AD&D until I found Rolemaster from ICE in the late eighties. Since then, I play this system with many house rules. Allways also a game master, I'm concentrating on that part since the nineties. My group plays around once in a month a session around 7-8 hours and my Campaigns are going around 10 years in avarage. Of cource I tried also a lot of other systems, but Rolemaster is my favorite.
 
 ### My IT Background
 I started already in the school before I studied information techniques in a University. In my company I started as a C developer, specialized as a framework and library developer.
