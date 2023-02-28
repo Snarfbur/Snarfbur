@@ -3,7 +3,7 @@
 ### Why I'm Here
 I love fantasy role playing since the eighties and developing software even earlier. I have seen a lot of things coming and going, especially around addons for pen & paper role playing. You can still find a lot of good solutions on the internet, but they are hard to find between all this dead projects. One of the exceptions is the open-source project [MapTool](https://www.rptools.net/toolbox/maptool/) from [RpTools](https://www.rptools.net/).
 
-Second I'm interested in AI and would like to extend [Rails-18xx](https://sourceforge.net/projects/rails/) ([Rails on GitHub](https://github.com/Rails-18xx/)) with some AI features computer gamer.
+Second I'm interested in AI and would like to extend [Rails-18xx](https://sourceforge.net/projects/rails/) ([Rails on GitHub](https://github.com/Rails-18xx/)) with some AI features like an artificial player.
 
 Both could be done just inside these projects, but I prefer to start alone until I have something to show. Then they can decide to integrate it or I will try to hold it UpToDate by myself.
 
