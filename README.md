@@ -16,7 +16,7 @@ I started with Dungeons & Dragons in 1982. I played D&D and AD&D until I found (
 
 ### My IT Background
 I started already in the school before I studied information techniques in a university. In my company I started as a C developer, specialized on frameworks and libraries.
-Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles already in 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
+Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles already in 2002. From 2010 to 2021 I was mainly working as an inhouse Business Analyst and Software Project Manager. Beside that, I also introduce and teached Agile Methods and Clean Code whenever I could catched  some open minds, willing to learn new ways in managment and coding styles.
 
 ### My Current Project(s)
 My first project will be a solution to run MapTool in a Docker environment with access over HTML5 for administration purposes.
