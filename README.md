@@ -25,7 +25,7 @@ My first project will be a solution to run MapTool in a Docker environment with 
 I'm German, living in Germany, so English is a foreign language for me. Being a dyslexic makes correct writing not easier :-)
 
 ### Visit Also
-- [My Private Web Side](https://rainer-muetze.de/) in German. (The Gallery and Panoramas are maybe interesting, even without German language knowledge)
+- [My Private Web Side](https://rainer-muetze.de/) in German. (The [Gallery](https://gallery.rainer-muetze.de/) and [Panoramas](https://panorama.rainer-muetze.de/) are maybe interesting, even without German language knowledge)
 - [Die Residenz](https://die-residenz.de/) in German about my apartment house
 
 As my Avatar you see a picture of my American Collie.
