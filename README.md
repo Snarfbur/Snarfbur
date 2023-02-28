@@ -15,7 +15,7 @@ I just retired and beside travelling around and playing my campaign with my grou
 I started with Dungeons & Dragons in 1982. I played D&D and AD&D until I found ([Rolemaster](https://de.wikipedia.org/wiki/Rolemaster)) from ICE in the late eighties. Since then, I play this system with many house rules. Always also a game master, I'm concentrating on that part since the nineties. My group plays around once in a month a session around 7-8 hours and my Campaigns are going around 10 years in average. Of course I tried also a lot of other systems, but Rolemaster is my favorite.
 
 ### My IT Background
-I started already in the school before I studied information techniques in a university. In my company I started as a C developer, specialized as a framework and library developer.
+I started already in the school before I studied information techniques in a university. In my company I started as a C developer, specialized on frameworks and libraries.
 Switching first to Smalltalk and then to Java, I was responsible for a 4-8 developer team, moving to agile principles already in 2002. From 2010 to 2021 I was mainly working as a Business Analyst and Software Project Manager. 
 
 ### My Current Project(s)
