@@ -1,11 +1,14 @@
 # Introduction
 
 ### Why I'm Here
-I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialy around addons for pen & paper role playing. You can still find a lot of good solutions on the internet, but they are hard to find between all this dead projects. That is the reason for founding [RPG-Phoenix](https://github.com/RPG-Phoenix).
-I want to bring in my knowledge around role playing and framework development to create and fill this new base plattform. And if I will not find companions, I will do this at least for me and my players.
+I love fantasy role playing since the eigthies and developing software even earlier. I have seen a lot of things coming and going, specialy around addons for pen & paper role playing. You can still find a lot of good solutions on the internet, but they are hard to find between all this dead projects. One of the exceptions is [MapTool](https://www.rptools.net/toolbox/maptool/) from [RpTools](https://www.rptools.net/}.
+Second I'm intrested in AI and would like to extend [Rails-18xx]{https://sourceforge.net/projects/rails/} ([Rails on GitHup]{https://github.com/Rails-18xx}) with a computer gamer.
+
+Both could be done just inside this projects, but I prefer to start alone until I have something to show. Then thye can disede to integrate it or I will try to hold it uptodate by myself.
+
 
 ### Why Now
-I just retired and beside travelling around and playing my compaign with my group, this is the first time after 30 years, that I feal that I have enough time to start this project. Last but not least I'm still hungry to learn and to update my Java & IT knowlege. 
+I just retired and beside travelling around and playing my compaign with my group, this is the first time after 30 years, that I feal that I have enough time to infest some of it into this projects. Last but not least I'm still hungry to learn and to update my Java & IT knowlege. 
 
 ### My Role Playing Background
 I started with Dungeons & Dragons in 1982. I played D&D and AD&D until I found Rolemaster from ICE in the late eighties. Since then, I play this system with many house rules. Allways also a game master, I'm concentrating on that part since the nineties. My group plays around once in a month a session around 7-8 hours and my Campaigns are going around 10 years in avarage. Of cource I tried also a lot of other systems, but Rolemaster is my favorite.
